@@ -6,4 +6,4 @@
 각 챕터에 맞추어 공부할 때 정리한 노트 내용과 실습 스크린샷을 올릴 예정입니다.
 
 # 공부한 내용들
-
+- [Custom Shader](https://244785.notion.site/Custom-Light-505d529776244835afd72284f84acf8b?pvs=4)
