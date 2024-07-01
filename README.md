@@ -7,3 +7,5 @@
 
 # 공부한 내용들
 - [Custom Shader](https://244785.notion.site/Custom-Light-505d529776244835afd72284f84acf8b?pvs=4)
+- [Fresnel Light](https://244785.notion.site/2-Fresnel-Light-6624edca836e4ff6bf47753d14ae12d4)
+- [Specular](https://244785.notion.site/3-Specular-f42ab3935b784300aa4b97eb3e174e46?pvs=4)
